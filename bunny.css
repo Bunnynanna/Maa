@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(120deg, #ff9a9e, #fad0c4);
+    font-family: 'Segoe UI', sans-serif;
+
+    .h1{
+        color: red;
+        height: 40px;
+        width: auto;
+        text-align: center;
+        
+    }      
+  }
+
